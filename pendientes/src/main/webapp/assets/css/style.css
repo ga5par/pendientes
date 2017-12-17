@@ -1,0 +1,7 @@
+li{
+	word-wrap: break-word
+}
+
+.disabled{
+	text-decoration: line-through
+}
